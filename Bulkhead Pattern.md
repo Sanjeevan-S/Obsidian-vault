@@ -1,0 +1,2 @@
+- [Bulkhead Pattern Introduction](https://www.geeksforgeeks.org/system-design/bulkhead-pattern/)
+- 
